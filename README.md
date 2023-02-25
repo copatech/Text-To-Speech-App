@@ -10,8 +10,8 @@ Overall, this script provides a simple and easy-to-use TTS application with a us
 
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="[your_relative_path_here](https://github.com/copatech/Text-To-Speech-App/blob/main/Text%20to%20Speech.png?raw=true)" width="350" title="Text To Speech">
+  <img src="[Text To Speech](https://github.com/copatech/Text-To-Speech-App/blob/main/Text%20to%20Speech.png?raw=true)" width="350" alt="Text To Speech">
 </p>
 ![Text To Speech](https://github.com/copatech/Text-To-Speech-App/blob/main/Text%20to%20Speech.png?raw=true)
 

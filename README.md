@@ -8,3 +8,7 @@ The GUI is divided into two frames: the top frame contains a logo and the applic
 
 Overall, this script provides a simple and easy-to-use TTS application with a user-friendly GUI.
 
+
+
+![Text To Speech](https://github.com/copatech/Text-To-Speech-App/commit/c0c996f42d6f91c71415b55c51c63b1b30fd8db5)
+

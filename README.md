@@ -9,10 +9,9 @@ The GUI is divided into two frames: the top frame contains a logo and the applic
 Overall, this script provides a simple and easy-to-use TTS application with a user-friendly GUI.
 
 
-<p align="center">
-  ![Text To Speech](Text to Speech.png)
-</p>
 
+
+![Text to Speech](https://user-images.githubusercontent.com/41125224/221352442-97f3aa91-4f63-4418-a20a-ddbf08e5e15c.png)
 
 
 

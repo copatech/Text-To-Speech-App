@@ -10,7 +10,7 @@ Overall, this script provides a simple and easy-to-use TTS application with a us
 
 
 <p align="center">
-  <img src="[Text To Speech](https://github.com/copatech/Text-To-Speech-App/blob/main/Text%20to%20Speech.png?raw=true)" width="350" alt="Text To Speech">
+  ![Text To Speech](Text to Speech.png)
 </p>
 
 
